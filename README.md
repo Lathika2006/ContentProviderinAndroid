@@ -178,8 +178,6 @@ public class MainActivity extends AppCompatActivity
 
 ```
 ## OUTPUT
-<img width="1029" height="533" alt="Screenshot 2025-10-29 090402" src="https://github.com/user-attachments/assets/199e655f-d27e-4c27-86c8-a62acb8fbf61" />
-<img width="1735" height="911" alt="image" src="https://github.com/user-attachments/assets/c0159d36-4c1c-42dc-b48e-e024620b5655" />
 <img width="542" height="902" alt="Screenshot 2025-10-29 090746" src="https://github.com/user-attachments/assets/7c4fc85f-1cd1-42ca-a3f7-75f57ad8666c" />
 <img width="1037" height="563" alt="Screenshot 2025-10-29 090814" src="https://github.com/user-attachments/assets/567a4b9c-656f-4872-84fb-e01ff6d82de7" />
 
